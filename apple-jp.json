@@ -1,0 +1,67 @@
+{
+  "fetchedAt": "2026-11-06T06:13:30.926Z",
+  "sourceUpdatedAt": "Fri, 6 Nov 2026 06:13:30 +0000",
+  "songs": [
+    {
+      "id": "1706829387",
+      "title": "しわあわせ",
+      "artist": "Vaundy",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/26/7f/ca/267fca78-32f8-1504-95fe-d74245126abe/197189907456.jpg/100x100bb.jpg"
+    },
+    {
+      "id": "6817260751",
+      "title": "結び",
+      "artist": "Ayumu Imazu",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/54/c5/aa54c5c6-e8e0-a701-6329-2c3a6fa228c2/26UM1IM20018.rgb.jpg/100x100bb.jpg"
+    },
+    {
+      "id": "6782749979",
+      "title": "Yes! 東京 (feat. SUPER★DRAGON, Sakurashimeji, ONE N' ONLY, BUDDiiS, ICEx & Lienel)",
+      "artist": "EBiDAN (恵比寿学園男子部), 超特急, M!LK & 原因は自分にある。",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/db/f8/a4dbf830-ec1e-e5af-723a-2ef5e4dac674/4580789774065.png/100x100bb.jpg"
+    },
+    {
+      "id": "6803148739",
+      "title": "ありふれた世界の果てに (feat. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk)",
+      "artist": "YAO",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fa/d5/a6/fad5a6d5-60b1-4ba3-3da9-be47bb3b7d68/4550759798070_cover.jpg/100x100bb.jpg"
+    },
+    {
+      "id": "6788211810",
+      "title": "Brand New",
+      "artist": "Mrs. GREEN APPLE",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/a0/b6/41a0b6b9-a720-25e5-fc69-7e9c3ca1296e/26UMGIM73217.rgb.jpg/100x100bb.jpg"
+    },
+    {
+      "id": "6824399888",
+      "title": "ザッツ!超常",
+      "artist": "M!LK",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/64/fb/7e64fb04-5523-7ddc-b493-c0696a55c7ec/VEATP-46003.jpg/100x100bb.jpg"
+    },
+    {
+      "id": "1846753946",
+      "title": "好きすぎて滅!",
+      "artist": "M!LK",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/f9/1b/d4f91bfd-6176-4733-113f-b72f6095d5df/VEATP-44481.jpg/100x100bb.jpg"
+    },
+    {
+      "id": "1739088799",
+      "title": "ライラック",
+      "artist": "Mrs. GREEN APPLE",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/3b/b2/4c3bb247-3be8-0c57-aa9a-7f1775a7b7a8/24UMGIM32931.rgb.jpg/100x100bb.jpg"
+    },
+    {
+      "id": "6823102262",
+      "title": "You’re Under Arrest",
+      "artist": "ILLIT",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/33/ed/0f33ed9f-628a-e35f-41f2-4af285d9680c/26UM1IM32452.rgb.jpg/100x100bb.jpg"
+    },
+    {
+      "id": "6808172970",
+      "title": "共犯",
+      "artist": "Mrs. GREEN APPLE",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/cc/da/d9ccdae5-6251-b671-dbf3-5b0508dc52ad/26UM1IM13923.rgb.jpg/100x100bb.jpg"
+    }
+  ],
+  "error": false
+}
