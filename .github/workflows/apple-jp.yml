@@ -1,0 +1,34 @@
+name: Update Apple Music Japan
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/apple-jp.yml
+      - update-apple-jp.mjs
+  schedule:
+    - cron: '7,22,37,52 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: apple-jp-chart
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Collect Apple Music Japan chart
+        run: node update-apple-jp.mjs apple-jp.json
+      - name: Publish validated snapshot
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add apple-jp.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'Update Apple Music Japan chart'
+          git push
