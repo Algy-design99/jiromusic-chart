@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-06T13:53:48.621Z",
-  "sourceUpdatedAt": "Fri, 6 Nov 2026 13:53:48 +0000",
+  "fetchedAt": "2026-11-07T01:18:56.804Z",
+  "sourceUpdatedAt": "Sat, 7 Nov 2026 01:18:56 +0000",
   "songs": [
     {
       "id": "1706829387",
@@ -39,16 +39,16 @@
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/3b/b2/4c3bb247-3be8-0c57-aa9a-7f1775a7b7a8/24UMGIM32931.rgb.jpg/100x100bb.jpg"
     },
     {
-      "id": "6824399888",
-      "title": "ザッツ!超常",
-      "artist": "M!LK",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/64/fb/7e64fb04-5523-7ddc-b493-c0696a55c7ec/VEATP-46003.jpg/100x100bb.jpg"
-    },
-    {
       "id": "1846753946",
       "title": "好きすぎて滅!",
       "artist": "M!LK",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/f9/1b/d4f91bfd-6176-4733-113f-b72f6095d5df/VEATP-44481.jpg/100x100bb.jpg"
+    },
+    {
+      "id": "6824399888",
+      "title": "ザッツ!超常",
+      "artist": "M!LK",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/64/fb/7e64fb04-5523-7ddc-b493-c0696a55c7ec/VEATP-46003.jpg/100x100bb.jpg"
     },
     {
       "id": "6823102262",
@@ -57,10 +57,10 @@
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/33/ed/0f33ed9f-628a-e35f-41f2-4af285d9680c/26UM1IM32452.rgb.jpg/100x100bb.jpg"
     },
     {
-      "id": "6808172970",
-      "title": "共犯",
-      "artist": "Mrs. GREEN APPLE",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/cc/da/d9ccdae5-6251-b671-dbf3-5b0508dc52ad/26UM1IM13923.rgb.jpg/100x100bb.jpg"
+      "id": "1451570480",
+      "title": "花束",
+      "artist": "back number",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/26/b6/e7/26b6e7e2-1cbb-4dde-edfb-e44e1f881cbd/00602577303739.rgb.jpg/100x100bb.jpg"
     }
   ],
   "error": false
