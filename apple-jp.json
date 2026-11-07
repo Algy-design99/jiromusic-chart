@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-07T07:21:39.854Z",
-  "sourceUpdatedAt": "Sat, 7 Nov 2026 07:21:39 +0000",
+  "fetchedAt": "2026-11-07T18:54:04.125Z",
+  "sourceUpdatedAt": "Sat, 7 Nov 2026 18:54:04 +0000",
   "songs": [
     {
       "id": "1706829387",
@@ -33,22 +33,16 @@
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/a0/b6/41a0b6b9-a720-25e5-fc69-7e9c3ca1296e/26UMGIM73217.rgb.jpg/100x100bb.jpg"
     },
     {
-      "id": "1739088799",
-      "title": "ライラック",
-      "artist": "Mrs. GREEN APPLE",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/3b/b2/4c3bb247-3be8-0c57-aa9a-7f1775a7b7a8/24UMGIM32931.rgb.jpg/100x100bb.jpg"
-    },
-    {
       "id": "1846753946",
       "title": "好きすぎて滅!",
       "artist": "M!LK",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/f9/1b/d4f91bfd-6176-4733-113f-b72f6095d5df/VEATP-44481.jpg/100x100bb.jpg"
     },
     {
-      "id": "6824399888",
-      "title": "ザッツ!超常",
-      "artist": "M!LK",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/64/fb/7e64fb04-5523-7ddc-b493-c0696a55c7ec/VEATP-46003.jpg/100x100bb.jpg"
+      "id": "1739088799",
+      "title": "ライラック",
+      "artist": "Mrs. GREEN APPLE",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/3b/b2/4c3bb247-3be8-0c57-aa9a-7f1775a7b7a8/24UMGIM32931.rgb.jpg/100x100bb.jpg"
     },
     {
       "id": "6823102262",
@@ -61,6 +55,12 @@
       "title": "爆裂愛してる",
       "artist": "M!LK",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/b1/53/45b153d5-e943-6cd9-620e-0a4c66b7525b/VEATP-45199.jpg/100x100bb.jpg"
+    },
+    {
+      "id": "1894837345",
+      "title": "It's Me",
+      "artist": "ILLIT",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/76/26/cc76262a-dc2e-0746-ed85-070a56d23d40/26UMGIM46377.rgb.jpg/100x100bb.jpg"
     }
   ],
   "error": false
