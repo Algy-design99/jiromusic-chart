@@ -1,18 +1,18 @@
 {
-  "fetchedAt": "2026-11-08T19:15:00.307Z",
-  "sourceUpdatedAt": "Sun, 8 Nov 2026 19:15:00 +0000",
+  "fetchedAt": "2026-11-08T20:23:39.505Z",
+  "sourceUpdatedAt": "Sun, 8 Nov 2026 20:23:39 +0000",
   "songs": [
-    {
-      "id": "6817260751",
-      "title": "結び",
-      "artist": "Ayumu Imazu",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/54/c5/aa54c5c6-e8e0-a701-6329-2c3a6fa228c2/26UM1IM20018.rgb.jpg/100x100bb.jpg"
-    },
     {
       "id": "1706829387",
       "title": "しわあわせ",
       "artist": "Vaundy",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/26/7f/ca/267fca78-32f8-1504-95fe-d74245126abe/197189907456.jpg/100x100bb.jpg"
+    },
+    {
+      "id": "6817260751",
+      "title": "結び",
+      "artist": "Ayumu Imazu",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/54/c5/aa54c5c6-e8e0-a701-6329-2c3a6fa228c2/26UM1IM20018.rgb.jpg/100x100bb.jpg"
     },
     {
       "id": "6782749979",
@@ -45,12 +45,6 @@
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/3b/b2/4c3bb247-3be8-0c57-aa9a-7f1775a7b7a8/24UMGIM32931.rgb.jpg/100x100bb.jpg"
     },
     {
-      "id": "1869537742",
-      "title": "爆裂愛してる",
-      "artist": "M!LK",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/b1/53/45b153d5-e943-6cd9-620e-0a4c66b7525b/VEATP-45199.jpg/100x100bb.jpg"
-    },
-    {
       "id": "6823102262",
       "title": "You’re Under Arrest",
       "artist": "ILLIT",
@@ -61,6 +55,12 @@
       "title": "It's Me",
       "artist": "ILLIT",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/76/26/cc76262a-dc2e-0746-ed85-070a56d23d40/26UMGIM46377.rgb.jpg/100x100bb.jpg"
+    },
+    {
+      "id": "1869537742",
+      "title": "爆裂愛してる",
+      "artist": "M!LK",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/b1/53/45b153d5-e943-6cd9-620e-0a4c66b7525b/VEATP-45199.jpg/100x100bb.jpg"
     }
   ],
   "error": false
