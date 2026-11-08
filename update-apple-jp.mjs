@@ -1,7 +1,45 @@
 import { readFile, rename, writeFile } from 'node:fs/promises';
 import { randomUUID } from 'node:crypto';
+const [destination = 'apple-jp.json'] = process.argv.slice(2);
+const SOURCES = [
+  'https://rss.marketingtools.apple.com/api/v2/jp/music/most-played/50/songs.json',
+  'https://itunes.apple.com/jp/rss/topsongs/limit=10/json'
+];
+const TTL = 15 * 60 * 1000;
+const RETRY_DELAY = 60 * 1000;
+let latest = null;
+let pending = null;
+let retryAfter = 0;
 
-const [destination = 'apple-jp.json', endpoint = 'https://rss.marketingtools.apple.com/api/v2/jp/music/most-played/50/songs.json'] = process.argv.slice(2);
+function valid(chart) {
+  return Number.isFinite(Date.parse(chart?.fetchedAt)) && chart.songs?.length === 10 &&
+    new Set(chart.songs.map(song => song.id)).size === 10 &&
+    chart.songs.every(song => [song.id, song.title, song.artist, song.image]
+      .every(value => typeof value === 'string' && value.trim()) &&
+      /^https:\/\/[^/]+\.mzstatic\.com\//.test(song.image));
+}
+
+async function collect() {
+  const errors = [];
+  for (const url of SOURCES) {
+    try {
+      const response = await fetch(url, { signal: AbortSignal.timeout(5000), cf: { cacheTtl: 0 } });
+      if (!response.ok) throw new Error('HTTP ' + response.status);
+      const { feed } = await response.json();
+      const songs = (feed?.results || feed?.entry || []).slice(0, 10).map(song => ({
+        id: String(song.id?.attributes?.['im:id'] || song.id || ''),
+        title: song.name || song['im:name']?.label,
+        artist: song.artistName || song['im:artist']?.label,
+        image: song.artworkUrl100 || song['im:image']?.at(-1)?.label
+      }));
+      const chart = { fetchedAt: new Date().toISOString(), sourceUpdatedAt: feed?.updated?.label || feed?.updated || null, songs, error: false };
+      if (!valid(chart)) throw new Error('Invalid Apple chart');
+      return chart;
+    } catch (error) { errors.push(error.message); }
+  }
+  throw new Error('Apple Music: ' + errors.join('; '));
+}
+
 
 async function save(snapshot) {
   const temporary = destination + '.' + randomUUID() + '.tmp';
@@ -9,36 +47,5 @@ async function save(snapshot) {
   await rename(temporary, destination);
 }
 
-try {
-  const response = await fetch(endpoint, { signal: AbortSignal.timeout(12000) });
-  if (!response.ok) throw new Error('Apple feed returned HTTP ' + response.status);
-  const { feed } = await response.json();
-  if (!Array.isArray(feed?.results) || feed.results.length < 10) {
-    throw new Error('Apple feed has fewer than 10 songs');
-  }
-  const ids = new Set();
-  const songs = feed.results.slice(0, 10).map(({ id, name, artistName, artworkUrl100 }) => {
-    if ([id, name, artistName, artworkUrl100].some(value => typeof value !== 'string' || !value.trim()) || ids.has(id)) {
-      throw new Error('Incomplete or duplicate song in Apple feed');
-    }
-    const artwork = new URL(artworkUrl100);
-    if (artwork.protocol !== 'https:' || !artwork.hostname.endsWith('.mzstatic.com')) {
-      throw new Error('Unexpected Apple artwork URL');
-    }
-    ids.add(id);
-    return { id, title: name, artist: artistName, image: artwork.href };
-  });
-  await save({ fetchedAt: new Date().toISOString(), sourceUpdatedAt: feed.updated ?? null, songs, error: false });
-  console.log('Updated ' + destination);
-} catch (error) {
-  try {
-    const previous = JSON.parse(await readFile(destination, 'utf8'));
-    if (previous.songs?.length) {
-      await save({ ...previous, error: true });
-    }
-  } catch (snapshotError) {
-    if (snapshotError.code !== 'ENOENT') console.error('Snapshot error:', snapshotError.message);
-  }
-  console.error('Apple Music JP:', error.message);
-  process.exitCode = 1;
-}
+
+try { await save(await collect()); console.log('Updated ' + destination); } catch (error) { console.error(error.message); process.exitCode = 1; }
