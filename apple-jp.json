@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-13T00:59:42.954Z",
-  "sourceUpdatedAt": "2026-11-12T16:59:42-07:00",
+  "fetchedAt": "2026-11-13T07:49:09.787Z",
+  "sourceUpdatedAt": "2026-11-12T23:49:09-07:00",
   "songs": [
     {
       "id": "6824823040",
@@ -33,34 +33,34 @@
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/04/02/2d/04022dc2-0a7f-d853-75f7-471e59b5afb2/UZCL-2271_72.jpg/170x170bb.png"
     },
     {
-      "id": "6826105456",
-      "title": "君ロス",
-      "artist": "乃木坂46",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/24/ef/a124efd4-d001-5958-2ea3-27454d476792/4547366865196.jpg/170x170bb.png"
-    },
-    {
-      "id": "6828460458",
-      "title": "愛の形",
-      "artist": "吉田仁人",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/13/7b/c0137ba4-b0f3-53b9-cc6c-b53ed4fc8cd2/VEATP-46061.jpg/170x170bb.png"
-    },
-    {
       "id": "6832522628",
       "title": "無中に有を生ず",
       "artist": "HOYO-MiX & 當山 みれい",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/52/85/b75285c0-e810-b814-a943-8376b3159b0c/cover.jpg/170x170bb.png"
     },
     {
-      "id": "6821872185",
-      "title": "Period",
-      "artist": "IMP.",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/50/3f/44503f36-ef04-8aa6-f7c0-036b2c2066df/ticket.drfjldqg.jpg/170x170bb.png"
+      "id": "6826105456",
+      "title": "君ロス",
+      "artist": "乃木坂46",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/24/ef/a124efd4-d001-5958-2ea3-27454d476792/4547366865196.jpg/170x170bb.png"
     },
     {
-      "id": "6829621678",
-      "title": "La la la",
-      "artist": "Kis-My-Ft2",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/da/0a/1ada0a10-4397-4493-0eff-ce0e8050ec29/ANTCD-A0000021654.jpg/170x170bb.png"
+      "id": "6782749979",
+      "title": "Yes! 東京 (feat. SUPER★DRAGON, Sakurashimeji, ONE N' ONLY, BUDDiiS, ICEx & Lienel)",
+      "artist": "EBiDAN (恵比寿学園男子部), 超特急, M!LK & 原因は自分にある。",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/db/f8/a4dbf830-ec1e-e5af-723a-2ef5e4dac674/4580789774065.png/170x170bb.png"
+    },
+    {
+      "id": "1706829387",
+      "title": "しわあわせ",
+      "artist": "Vaundy",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/26/7f/ca/267fca78-32f8-1504-95fe-d74245126abe/197189907456.jpg/170x170bb.png"
+    },
+    {
+      "id": "6817668876",
+      "title": "咲き誇れ",
+      "artist": "YOASOBI",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/32/9e/7a329e90-a8e5-cc05-4a8f-142811b9b095/885288733761.jpg/170x170bb.png"
     }
   ],
   "error": false
