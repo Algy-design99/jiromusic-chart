@@ -1,66 +1,66 @@
 {
-  "fetchedAt": "2026-11-12T19:49:53.227Z",
-  "sourceUpdatedAt": "Thu, 12 Nov 2026 19:49:53 +0000",
+  "fetchedAt": "2026-11-13T00:59:42.954Z",
+  "sourceUpdatedAt": "2026-11-12T16:59:42-07:00",
   "songs": [
+    {
+      "id": "6824823040",
+      "title": "別班儀礼曲",
+      "artist": "千住明",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/0a/e7/fa0ae760-1fdf-da1c-979e-4574d35b9b0c/NS-2912.jpg/170x170bb.png"
+    },
+    {
+      "id": "6831510081",
+      "title": "KILLA",
+      "artist": "YOASOBI",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/6d/6e/ee6d6e99-ffc6-d4b6-9b20-58dc7a092072/711641064473.jpg/170x170bb.png"
+    },
+    {
+      "id": "6831144662",
+      "title": "超☆HENSHIN",
+      "artist": "中島健人",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/60/9e/22/609e228e-aa4e-4755-78fb-cf4ac5bca711/4547366864915.jpg/170x170bb.png"
+    },
     {
       "id": "6817260751",
       "title": "結び",
       "artist": "Ayumu Imazu",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/54/c5/aa54c5c6-e8e0-a701-6329-2c3a6fa228c2/26UM1IM20018.rgb.jpg/100x100bb.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/54/c5/aa54c5c6-e8e0-a701-6329-2c3a6fa228c2/26UM1IM20018.rgb.jpg/170x170bb.png"
     },
     {
-      "id": "1706829387",
-      "title": "しわあわせ",
-      "artist": "Vaundy",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/26/7f/ca/267fca78-32f8-1504-95fe-d74245126abe/197189907456.jpg/100x100bb.jpg"
+      "id": "1701389291",
+      "title": "VIVANT <Main theme>",
+      "artist": "千住明",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/04/02/2d/04022dc2-0a7f-d853-75f7-471e59b5afb2/UZCL-2271_72.jpg/170x170bb.png"
     },
     {
-      "id": "6782749979",
-      "title": "Yes! 東京 (feat. SUPER★DRAGON, Sakurashimeji, ONE N' ONLY, BUDDiiS, ICEx & Lienel)",
-      "artist": "EBiDAN (恵比寿学園男子部), 超特急, M!LK & 原因は自分にある。",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/db/f8/a4dbf830-ec1e-e5af-723a-2ef5e4dac674/4580789774065.png/100x100bb.jpg"
+      "id": "6826105456",
+      "title": "君ロス",
+      "artist": "乃木坂46",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/24/ef/a124efd4-d001-5958-2ea3-27454d476792/4547366865196.jpg/170x170bb.png"
     },
     {
-      "id": "6803148739",
-      "title": "ありふれた世界の果てに (feat. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk)",
-      "artist": "YAO",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fa/d5/a6/fad5a6d5-60b1-4ba3-3da9-be47bb3b7d68/4550759798070_cover.jpg/100x100bb.jpg"
+      "id": "6828460458",
+      "title": "愛の形",
+      "artist": "吉田仁人",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/13/7b/c0137ba4-b0f3-53b9-cc6c-b53ed4fc8cd2/VEATP-46061.jpg/170x170bb.png"
     },
     {
-      "id": "6788211810",
-      "title": "Brand New",
-      "artist": "Mrs. GREEN APPLE",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/a0/b6/41a0b6b9-a720-25e5-fc69-7e9c3ca1296e/26UMGIM73217.rgb.jpg/100x100bb.jpg"
+      "id": "6832522628",
+      "title": "無中に有を生ず",
+      "artist": "HOYO-MiX & 當山 みれい",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/52/85/b75285c0-e810-b814-a943-8376b3159b0c/cover.jpg/170x170bb.png"
     },
     {
-      "id": "6823102262",
-      "title": "You’re Under Arrest",
-      "artist": "ILLIT",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/33/ed/0f33ed9f-628a-e35f-41f2-4af285d9680c/26UM1IM32452.rgb.jpg/100x100bb.jpg"
+      "id": "6821872185",
+      "title": "Period",
+      "artist": "IMP.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/50/3f/44503f36-ef04-8aa6-f7c0-036b2c2066df/ticket.drfjldqg.jpg/170x170bb.png"
     },
     {
-      "id": "1739088799",
-      "title": "ライラック",
-      "artist": "Mrs. GREEN APPLE",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/3b/b2/4c3bb247-3be8-0c57-aa9a-7f1775a7b7a8/24UMGIM32931.rgb.jpg/100x100bb.jpg"
-    },
-    {
-      "id": "1892738152",
-      "title": "BPM (feat. KREVA)",
-      "artist": "Kvi Baba",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/a0/64/42a06443-8d1a-950d-6a98-367771694088/4988061934006_cover.jpg/100x100bb.jpg"
-    },
-    {
-      "id": "1846753946",
-      "title": "好きすぎて滅!",
-      "artist": "M!LK",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/f9/1b/d4f91bfd-6176-4733-113f-b72f6095d5df/VEATP-44481.jpg/100x100bb.jpg"
-    },
-    {
-      "id": "1894837345",
-      "title": "It's Me",
-      "artist": "ILLIT",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/76/26/cc76262a-dc2e-0746-ed85-070a56d23d40/26UMGIM46377.rgb.jpg/100x100bb.jpg"
+      "id": "6829621678",
+      "title": "La la la",
+      "artist": "Kis-My-Ft2",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/da/0a/1ada0a10-4397-4493-0eff-ce0e8050ec29/ANTCD-A0000021654.jpg/170x170bb.png"
     }
   ],
   "error": false
