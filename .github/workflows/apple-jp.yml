@@ -1,3 +1,4 @@
+# Data collector shared by the migrated GitHub Pages sites; independent of FC2.
 name: Update Apple Music Japan
 on:
   push:
