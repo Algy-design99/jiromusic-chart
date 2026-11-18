@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-18T16:32:08.134Z",
-  "sourceUpdatedAt": "2026-11-18T08:32:08-07:00",
+  "fetchedAt": "2026-11-18T23:05:59.024Z",
+  "sourceUpdatedAt": "2026-11-18T15:05:58-07:00",
   "songs": [
     {
       "id": "6831421656",
@@ -33,22 +33,10 @@
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/0a/e7/fa0ae760-1fdf-da1c-979e-4574d35b9b0c/NS-2912.jpg/170x170bb.png"
     },
     {
-      "id": "6833387074",
-      "title": "Angel Bite",
-      "artist": "TOMORROW X TOGETHER",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/25/85/6b25852a-ba0e-cd2f-e09c-98dd05f97d9a/26UM1IM45979.rgb.jpg/170x170bb.png"
-    },
-    {
       "id": "6817260751",
       "title": "結び",
       "artist": "Ayumu Imazu",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/54/c5/aa54c5c6-e8e0-a701-6329-2c3a6fa228c2/26UM1IM20018.rgb.jpg/170x170bb.png"
-    },
-    {
-      "id": "6782749979",
-      "title": "Yes! 東京 (feat. SUPER★DRAGON, Sakurashimeji, ONE N' ONLY, BUDDiiS, ICEx & Lienel)",
-      "artist": "EBiDAN (恵比寿学園男子部), 超特急, M!LK & 原因は自分にある。",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/db/f8/a4dbf830-ec1e-e5af-723a-2ef5e4dac674/4580789774065.png/170x170bb.png"
     },
     {
       "id": "6831510081",
@@ -57,10 +45,22 @@
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/6d/6e/ee6d6e99-ffc6-d4b6-9b20-58dc7a092072/711641064473.jpg/170x170bb.png"
     },
     {
-      "id": "6819134539",
-      "title": "POP STAR",
-      "artist": "Travis Japan",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/da/d9/6bdad980-a723-2291-d36a-10c56cd30223/26UM1IM15358.rgb.jpg/170x170bb.png"
+      "id": "6782749979",
+      "title": "Yes! 東京 (feat. SUPER★DRAGON, Sakurashimeji, ONE N' ONLY, BUDDiiS, ICEx & Lienel)",
+      "artist": "EBiDAN (恵比寿学園男子部), 超特急, M!LK & 原因は自分にある。",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/db/f8/a4dbf830-ec1e-e5af-723a-2ef5e4dac674/4580789774065.png/170x170bb.png"
+    },
+    {
+      "id": "6833387074",
+      "title": "Angel Bite",
+      "artist": "TOMORROW X TOGETHER",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/25/85/6b25852a-ba0e-cd2f-e09c-98dd05f97d9a/26UM1IM45979.rgb.jpg/170x170bb.png"
+    },
+    {
+      "id": "6824399888",
+      "title": "ザッツ!超常",
+      "artist": "M!LK",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/64/fb/7e64fb04-5523-7ddc-b493-c0696a55c7ec/VEATP-46003.jpg/170x170bb.png"
     }
   ],
   "error": false
