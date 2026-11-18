@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-18T07:11:03.364Z",
-  "sourceUpdatedAt": "2026-11-17T23:11:03-07:00",
+  "fetchedAt": "2026-11-18T16:32:08.134Z",
+  "sourceUpdatedAt": "2026-11-18T08:32:08-07:00",
   "songs": [
     {
       "id": "6831421656",
@@ -27,16 +27,16 @@
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/bb/cd/7abbcd8a-5153-17f1-6c5d-f3785430f89a/PA00242657_0_258297_jacket.jpg/170x170bb.png"
     },
     {
-      "id": "6833387074",
-      "title": "Angel Bite",
-      "artist": "TOMORROW X TOGETHER",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/25/85/6b25852a-ba0e-cd2f-e09c-98dd05f97d9a/26UM1IM45979.rgb.jpg/170x170bb.png"
-    },
-    {
       "id": "6824823040",
       "title": "別班儀礼曲",
       "artist": "千住明",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/0a/e7/fa0ae760-1fdf-da1c-979e-4574d35b9b0c/NS-2912.jpg/170x170bb.png"
+    },
+    {
+      "id": "6833387074",
+      "title": "Angel Bite",
+      "artist": "TOMORROW X TOGETHER",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/25/85/6b25852a-ba0e-cd2f-e09c-98dd05f97d9a/26UM1IM45979.rgb.jpg/170x170bb.png"
     },
     {
       "id": "6817260751",
