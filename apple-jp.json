@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-23T02:53:58.834Z",
-  "sourceUpdatedAt": "2026-11-22T18:53:58-07:00",
+  "fetchedAt": "2026-11-23T12:13:24.600Z",
+  "sourceUpdatedAt": "2026-11-23T04:13:24-07:00",
   "songs": [
     {
       "id": "6836142604",
@@ -21,22 +21,10 @@
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/3c/f8/443cf858-c712-0597-fe8a-272e3e79bb5a/ANTCD-A0000021669.jpg/170x170bb.png"
     },
     {
-      "id": "6797375186",
-      "title": "IGNITE",
-      "artist": "JO1",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/97/88/8e97883f-a1c7-4ac8-3982-de71a9988f2c/4582109079195.jpg/170x170bb.png"
-    },
-    {
       "id": "6835789167",
       "title": "GiiiRIP",
       "artist": "BIGBANG",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/0c/aa/2b0caa86-1fe7-6987-fa74-e7b410b2c25f/ANTCD-A0000021761.jpg/170x170bb.png"
-    },
-    {
-      "id": "6817260751",
-      "title": "結び",
-      "artist": "Ayumu Imazu",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/54/c5/aa54c5c6-e8e0-a701-6329-2c3a6fa228c2/26UM1IM20018.rgb.jpg/170x170bb.png"
     },
     {
       "id": "6830446007",
@@ -45,22 +33,34 @@
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/bb/cd/7abbcd8a-5153-17f1-6c5d-f3785430f89a/PA00242657_0_258297_jacket.jpg/170x170bb.png"
     },
     {
+      "id": "6797375186",
+      "title": "IGNITE",
+      "artist": "JO1",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/97/88/8e97883f-a1c7-4ac8-3982-de71a9988f2c/4582109079195.jpg/170x170bb.png"
+    },
+    {
+      "id": "6817260751",
+      "title": "結び",
+      "artist": "Ayumu Imazu",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/54/c5/aa54c5c6-e8e0-a701-6329-2c3a6fa228c2/26UM1IM20018.rgb.jpg/170x170bb.png"
+    },
+    {
       "id": "6782749979",
       "title": "Yes! 東京 (feat. SUPER★DRAGON, Sakurashimeji, ONE N' ONLY, BUDDiiS, ICEx & Lienel)",
       "artist": "EBiDAN (恵比寿学園男子部), 超特急, M!LK & 原因は自分にある。",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/db/f8/a4dbf830-ec1e-e5af-723a-2ef5e4dac674/4580789774065.png/170x170bb.png"
     },
     {
-      "id": "6832934655",
-      "title": "STAR feat. アイナ・ジ・エンド, AKLO",
-      "artist": "ZORN",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/f3/51/0df35199-17a3-00cb-236f-87a22cbfdd84/4500000096684.jpg/170x170bb.png"
-    },
-    {
       "id": "1706829387",
       "title": "しわあわせ",
       "artist": "Vaundy",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/26/7f/ca/267fca78-32f8-1504-95fe-d74245126abe/197189907456.jpg/170x170bb.png"
+    },
+    {
+      "id": "6817668876",
+      "title": "咲き誇れ",
+      "artist": "YOASOBI",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/32/9e/7a329e90-a8e5-cc05-4a8f-142811b9b095/885288733761.jpg/170x170bb.png"
     }
   ],
   "error": false
