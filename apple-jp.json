@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-27T05:26:07.301Z",
-  "sourceUpdatedAt": "2026-11-26T21:26:07-07:00",
+  "fetchedAt": "2026-11-27T15:30:05.696Z",
+  "sourceUpdatedAt": "2026-11-27T07:30:05-07:00",
   "songs": [
     {
       "id": "6831456885",
@@ -27,10 +27,22 @@
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/5b/14/f25b14d9-642b-de9e-d102-4e46b564cffc/4547366865370.jpg/170x170bb.png"
     },
     {
-      "id": "1501837364",
-      "title": "人として",
-      "artist": "SUPER BEAVER",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2d/4a/7a/2d4a7a8c-9101-e1f7-9f93-e488f7bbd137/082705_J.jpg/170x170bb.png"
+      "id": "6839118840",
+      "title": "ONE DAY (feat. VIGORMAN)",
+      "artist": "舐達麻",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3c/ac/bb/3cacbbc0-c944-944b-c91f-15ea340a3f11/4550797011360_cover.png/170x170bb.png"
+    },
+    {
+      "id": "6802584716",
+      "title": "BiiiG",
+      "artist": "BIGBANG",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/f6/a5/4bf6a51c-7fae-5304-a005-56d33b2e2789/ANTCD-A0000020915.jpg/170x170bb.png"
+    },
+    {
+      "id": "6832934655",
+      "title": "STAR feat. アイナ・ジ・エンド, AKLO",
+      "artist": "ZORN",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/f3/51/0df35199-17a3-00cb-236f-87a22cbfdd84/4500000096684.jpg/170x170bb.png"
     },
     {
       "id": "6833274666",
@@ -39,28 +51,16 @@
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/d1/a3/20d1a3ea-d843-5c67-a226-c6ffea52402f/NOPA-9401.jpg/170x170bb.png"
     },
     {
-      "id": "6829643547",
-      "title": "カラー",
-      "artist": "パペットスンスン",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/e8/9b/5be89b55-6fdb-76a6-a062-f06201d10d5a/711641162735.jpg/170x170bb.png"
+      "id": "1501837364",
+      "title": "人として",
+      "artist": "SUPER BEAVER",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2d/4a/7a/2d4a7a8c-9101-e1f7-9f93-e488f7bbd137/082705_J.jpg/170x170bb.png"
     },
     {
-      "id": "1541673423",
-      "title": "人生の扉",
-      "artist": "竹内まりや",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1b/bf/7d/1bbf7d0d-fe41-4e4b-29d0-7feb373a9e4c/190295078515.jpg/170x170bb.png"
-    },
-    {
-      "id": "6830446007",
-      "title": "メタモルフォーゼ",
-      "artist": "初星学園 & 氷渡香名江",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/bb/cd/7abbcd8a-5153-17f1-6c5d-f3785430f89a/PA00242657_0_258297_jacket.jpg/170x170bb.png"
-    },
-    {
-      "id": "1395024580",
-      "title": "拝啓、少年よ",
-      "artist": "Hump Back",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/d5/8a/fad58adc-218c-3fe3-1428-040a5187729c/4988021823470.png/170x170bb.png"
+      "id": "6782749979",
+      "title": "Yes! 東京 (feat. SUPER★DRAGON, Sakurashimeji, ONE N' ONLY, BUDDiiS, ICEx & Lienel)",
+      "artist": "EBiDAN (恵比寿学園男子部), 超特急, M!LK & 原因は自分にある。",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/db/f8/a4dbf830-ec1e-e5af-723a-2ef5e4dac674/4580789774065.png/170x170bb.png"
     }
   ],
   "error": false
