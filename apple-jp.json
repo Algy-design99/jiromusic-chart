@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-28T05:00:22.851Z",
-  "sourceUpdatedAt": "2026-11-27T21:00:22-07:00",
+  "fetchedAt": "2026-11-28T14:05:10.891Z",
+  "sourceUpdatedAt": "2026-11-28T06:05:10-07:00",
   "songs": [
     {
       "id": "6837295978",
@@ -9,16 +9,22 @@
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/87/90/9887902a-3e2b-9378-f174-774627ab9db7/4547366871333.jpg/170x170bb.png"
     },
     {
-      "id": "6831456885",
-      "title": "本当のことを言うと",
-      "artist": "timelesz",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/61/ef/d561ef45-6d60-ddcb-fcf1-0c4185e6836b/26UM1IM34019.rgb.jpg/170x170bb.png"
-    },
-    {
       "id": "6823148846",
       "title": "Intentions",
       "artist": "宇多田ヒカル",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/b2/1b/b4b21bae-36d7-642d-848a-e62e9d1609d0/4547366862591.jpg/170x170bb.png"
+    },
+    {
+      "id": "6802584716",
+      "title": "BiiiG",
+      "artist": "BIGBANG",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/f6/a5/4bf6a51c-7fae-5304-a005-56d33b2e2789/ANTCD-A0000020915.jpg/170x170bb.png"
+    },
+    {
+      "id": "6831456885",
+      "title": "本当のことを言うと",
+      "artist": "timelesz",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/61/ef/d561ef45-6d60-ddcb-fcf1-0c4185e6836b/26UM1IM34019.rgb.jpg/170x170bb.png"
     },
     {
       "id": "6831421656",
@@ -33,34 +39,28 @@
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/5b/14/f25b14d9-642b-de9e-d102-4e46b564cffc/4547366865370.jpg/170x170bb.png"
     },
     {
-      "id": "6839118840",
-      "title": "ONE DAY (feat. VIGORMAN)",
-      "artist": "舐達麻",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3c/ac/bb/3cacbbc0-c944-944b-c91f-15ea340a3f11/4550797011360_cover.png/170x170bb.png"
-    },
-    {
-      "id": "6832934655",
-      "title": "STAR feat. アイナ・ジ・エンド, AKLO",
-      "artist": "ZORN",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/f3/51/0df35199-17a3-00cb-236f-87a22cbfdd84/4500000096684.jpg/170x170bb.png"
-    },
-    {
       "id": "6833400794",
       "title": "アンバランス",
       "artist": "初星学園, 雨夜 燕 & 有村麻央",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/1e/c8/341ec847-ddae-f350-2cef-ab73c830c8cc/PA00244198_0_258733_jacket.jpg/170x170bb.png"
     },
     {
-      "id": "6802584716",
-      "title": "BiiiG",
-      "artist": "BIGBANG",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/f6/a5/4bf6a51c-7fae-5304-a005-56d33b2e2789/ANTCD-A0000020915.jpg/170x170bb.png"
+      "id": "6839118840",
+      "title": "ONE DAY (feat. VIGORMAN)",
+      "artist": "舐達麻",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3c/ac/bb/3cacbbc0-c944-944b-c91f-15ea340a3f11/4550797011360_cover.png/170x170bb.png"
     },
     {
-      "id": "6817260751",
-      "title": "結び",
-      "artist": "Ayumu Imazu",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/54/c5/aa54c5c6-e8e0-a701-6329-2c3a6fa228c2/26UM1IM20018.rgb.jpg/170x170bb.png"
+      "id": "6835789167",
+      "title": "GiiiRIP",
+      "artist": "BIGBANG",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/e9/ad/36e9ad7d-12b8-0f88-d861-88ebb74b9e0d/ticket.dqdagkcc.jpg/170x170bb.png"
+    },
+    {
+      "id": "6782749979",
+      "title": "Yes! 東京 (feat. SUPER★DRAGON, Sakurashimeji, ONE N' ONLY, BUDDiiS, ICEx & Lienel)",
+      "artist": "EBiDAN (恵比寿学園男子部), 超特急, M!LK & 原因は自分にある。",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/db/f8/a4dbf830-ec1e-e5af-723a-2ef5e4dac674/4580789774065.png/170x170bb.png"
     }
   ],
   "error": false
